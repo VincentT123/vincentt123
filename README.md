@@ -8,6 +8,6 @@
 
 > html, css, scss, javascript, React, node.js, express, mysql, mongodb, git
 
-#### Compétences en cours d'acquisition
+### Compétences en cours d'acquisition
 
 > php, jquery, firebird, et d'autres à venir...
